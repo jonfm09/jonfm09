@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 <!--
-**jonfm09/jonfm09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 🌱 I’m currently studying and learning code<br>⚡I’m Graphic and Web Designer<br>🤝 I’m freelance<br>🔭 I’m creative person<br>💬 Let's work together
 
