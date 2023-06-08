@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m Graphic and web Designer<br>🌱 I’m Full Stack JR<br>💬 I'm creative<br>⚡ I like to learn new things 
+🔭 I’m Graphic and Web Designer<br>🌱 I’m Full Stack JR<br>💬 I'm creative<br>⚡ I like to learn new things 
 
 
 ## 🌐 Socials:
